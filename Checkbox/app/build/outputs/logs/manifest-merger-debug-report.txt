@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4cf2959ce710449d6a7b09f6d8b6d008/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d0e4d345cf70be07d3579f6bba6611a0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ebd930fb0f3b7ea089011f4d0e2b7e15/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1718f5af32173a6e0a104be8b8b0e768/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b176b04ad4c44062cb189a99673e1082/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9ae2f14ef2b19591d2538a98260ae518/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b390e3bab70dc89c077eca8cbca95862/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f2516331eaa11d90497e31be49d31713/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f3e5935a71300ef0069bb588b4fcd2c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/30a13351cdc8f554eb3202e3cc5eb87d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b82a616470069af3b60baf35dd3db027/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ce7de60791d8211e735b59c914fbecda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e9e74357406bd82e89c164d991f4ca96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e99d99c381e5a880d278bc79c90f279a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3c65b8cbe3f50b0331d7e86502c7a51c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4e27e778b495a95ac990886c4dc9260/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c8f4330990e453f9c48b87c717d5fc4e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c95a7b9f868ac856f7f4b4ede9482ea3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/69d2ee773bd65577f48113df33886a63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8337844208ff787ed688d86fa6f97849/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c78b478a035b699d205d3ed1ca63e3d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/dcccbadb790bfd1493fd28978921ead9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7d21514a9fc4a42eb57746243f5290be/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5e0e9c55ec6558db7ddf8d8386a2e8f9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/69c96e06d23de421f50badd01f8a5157/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3c7834997454eac0bcb2e60ef6ae3904/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f0356eeefabc96f4ebc863de8c2bbb40/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d0e4d345cf70be07d3579f6bba6611a0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d0e4d345cf70be07d3579f6bba6611a0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4e27e778b495a95ac990886c4dc9260/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4e27e778b495a95ac990886c4dc9260/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c8f4330990e453f9c48b87c717d5fc4e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c8f4330990e453f9c48b87c717d5fc4e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4e27e778b495a95ac990886c4dc9260/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.ideabytes.checkbox.MainActivity
+ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4cf2959ce710449d6a7b09f6d8b6d008/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4cf2959ce710449d6a7b09f6d8b6d008/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d0e4d345cf70be07d3579f6bba6611a0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d0e4d345cf70be07d3579f6bba6611a0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ebd930fb0f3b7ea089011f4d0e2b7e15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ebd930fb0f3b7ea089011f4d0e2b7e15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1718f5af32173a6e0a104be8b8b0e768/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1718f5af32173a6e0a104be8b8b0e768/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b176b04ad4c44062cb189a99673e1082/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b176b04ad4c44062cb189a99673e1082/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9ae2f14ef2b19591d2538a98260ae518/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9ae2f14ef2b19591d2538a98260ae518/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b390e3bab70dc89c077eca8cbca95862/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b390e3bab70dc89c077eca8cbca95862/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f2516331eaa11d90497e31be49d31713/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f2516331eaa11d90497e31be49d31713/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f3e5935a71300ef0069bb588b4fcd2c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f3e5935a71300ef0069bb588b4fcd2c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/30a13351cdc8f554eb3202e3cc5eb87d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/30a13351cdc8f554eb3202e3cc5eb87d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b82a616470069af3b60baf35dd3db027/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b82a616470069af3b60baf35dd3db027/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ce7de60791d8211e735b59c914fbecda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ce7de60791d8211e735b59c914fbecda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e9e74357406bd82e89c164d991f4ca96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e9e74357406bd82e89c164d991f4ca96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e99d99c381e5a880d278bc79c90f279a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e99d99c381e5a880d278bc79c90f279a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3c65b8cbe3f50b0331d7e86502c7a51c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3c65b8cbe3f50b0331d7e86502c7a51c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4e27e778b495a95ac990886c4dc9260/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4e27e778b495a95ac990886c4dc9260/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c8f4330990e453f9c48b87c717d5fc4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c8f4330990e453f9c48b87c717d5fc4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c95a7b9f868ac856f7f4b4ede9482ea3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c95a7b9f868ac856f7f4b4ede9482ea3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/69d2ee773bd65577f48113df33886a63/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/69d2ee773bd65577f48113df33886a63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8337844208ff787ed688d86fa6f97849/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8337844208ff787ed688d86fa6f97849/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c78b478a035b699d205d3ed1ca63e3d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c78b478a035b699d205d3ed1ca63e3d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/dcccbadb790bfd1493fd28978921ead9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/dcccbadb790bfd1493fd28978921ead9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7d21514a9fc4a42eb57746243f5290be/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7d21514a9fc4a42eb57746243f5290be/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5e0e9c55ec6558db7ddf8d8386a2e8f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5e0e9c55ec6558db7ddf8d8386a2e8f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/69c96e06d23de421f50badd01f8a5157/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/69c96e06d23de421f50badd01f8a5157/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3c7834997454eac0bcb2e60ef6ae3904/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3c7834997454eac0bcb2e60ef6ae3904/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f0356eeefabc96f4ebc863de8c2bbb40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ideabytes/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f0356eeefabc96f4ebc863de8c2bbb40/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ideabytes/Desktop/android/Checkbox/app/src/main/AndroidManifest.xml
